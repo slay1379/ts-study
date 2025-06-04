@@ -1,0 +1,20 @@
+.box {
+  background-color: blue;
+  font-size: 40px;
+
+  /* px vs vh (vw) */
+
+  /* px vs em vs rem vs % */
+}
+
+.title {
+  text-align: center;
+  font-size: 3em;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.body {
+  text-align: center;
+  font-size: em;
+}
